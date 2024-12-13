@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "interface_can_cpp": "cpp",
+        "common.h": "c",
+        "can.h": "c",
+        "main.h": "c",
+        "usbd_def.h": "c",
+        "slcan.h": "c",
+        "hal_include.h": "c",
+        "usbd_conf.h": "c",
+        "usbd_core.h": "c",
+        "gpio.h": "c",
+        "config.h": "c",
+        "usbd_desc.h": "c",
+        "gs_usb.h": "c",
+        "stm32f0xx_hal.h": "c"
+    },
+    "cortex-debug.variableUseNaturalFormat": false
+}
