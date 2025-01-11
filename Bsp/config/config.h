@@ -61,7 +61,7 @@ THE SOFTWARE.
 #define LEDRX_GPIO_Port             GPIOA
 #define LEDRX_Pin                   GPIO_PIN_1
 #define LEDRX_Mode                  GPIO_MODE_OUTPUT_PP
-#define LEDRX_Active_High 0
+#define LEDRX_Active_High           0
 
 #define LEDTX_GPIO_Port             GPIOA
 #define LEDTX_Pin                   GPIO_PIN_0
