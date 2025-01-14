@@ -25,7 +25,6 @@ THE SOFTWARE.
 */
 
 #include <util.h>
-#include <cmsis_device.h>
 
 void hex32(char *out, uint32_t val)
 {
